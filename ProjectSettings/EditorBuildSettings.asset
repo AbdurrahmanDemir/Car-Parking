@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CarParking/Scenes/LevelLoader.unity
+    guid: 599964fdf6b90944f8e358e0bb088fc9
+  - enabled: 1
+    path: Assets/CarParking/Scenes/0.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/CarParking/Scenes/1.unity
+    guid: a3d177341189844489f54742f72abbbb
+  - enabled: 1
+    path: Assets/CarParking/Scenes/2.unity
+    guid: 24b1ed4852abea94698ff0bfb4ee12df
+  - enabled: 1
+    path: Assets/CarParking/Scenes/3.unity
+    guid: abb70b39a6c243140a92089c8bf89bcc
+  - enabled: 1
+    path: Assets/CarParking/Scenes/4.unity
+    guid: 863b74d266d1c194e959460746ecd736
+  - enabled: 1
+    path: Assets/CarParking/Scenes/5.unity
+    guid: f84bfe04149414c45b678cb909d855c3
+  - enabled: 1
+    path: Assets/CarParking/Scenes/6.unity
+    guid: f75a93862708c1340a3274ebeae2af16
+  - enabled: 1
+    path: Assets/CarParking/Scenes/7.unity
+    guid: d71edd43c38bea04fa23fee39312b97e
+  - enabled: 1
+    path: Assets/CarParking/Scenes/8.unity
+    guid: d092b751bbec6e84b84d9368cfbbc640
+  - enabled: 1
+    path: Assets/CarParking/Scenes/9.unity
+    guid: e2b24fa6fe90c8043a221998e79addb3
+  - enabled: 1
+    path: Assets/CarParking/Scenes/10.unity
+    guid: 8eb1b1aa4cf27ec48bed2f9e6a07134e
+  - enabled: 1
+    path: Assets/CarParking/Scenes/11.unity
+    guid: 4c08a57eb5dac4e42b7885ba85f987c9
+  m_configObjects: {}
